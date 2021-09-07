@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "desafio",
+    "slug": "desafio",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "desafio"
+}
